@@ -1,0 +1,7 @@
+D:\MyProjects\RPKS_Distance\RPKS_Distance\bin\Debug\RPKS_Distance.exe.config
+D:\MyProjects\RPKS_Distance\RPKS_Distance\bin\Debug\RPKS_Distance.exe
+D:\MyProjects\RPKS_Distance\RPKS_Distance\bin\Debug\RPKS_Distance.pdb
+D:\MyProjects\RPKS_Distance\RPKS_Distance\obj\Debug\RPKS_Distance.csproj.AssemblyReference.cache
+D:\MyProjects\RPKS_Distance\RPKS_Distance\obj\Debug\RPKS_Distance.csproj.CoreCompileInputs.cache
+D:\MyProjects\RPKS_Distance\RPKS_Distance\obj\Debug\RPKS_Distance.exe
+D:\MyProjects\RPKS_Distance\RPKS_Distance\obj\Debug\RPKS_Distance.pdb

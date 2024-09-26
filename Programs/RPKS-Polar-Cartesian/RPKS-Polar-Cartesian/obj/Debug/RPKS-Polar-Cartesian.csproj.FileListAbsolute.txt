@@ -1,0 +1,7 @@
+D:\MyProjects\RPKS-Polar-Cartesian\RPKS-Polar-Cartesian\bin\Debug\RPKS-Polar-Cartesian.exe.config
+D:\MyProjects\RPKS-Polar-Cartesian\RPKS-Polar-Cartesian\bin\Debug\RPKS-Polar-Cartesian.exe
+D:\MyProjects\RPKS-Polar-Cartesian\RPKS-Polar-Cartesian\bin\Debug\RPKS-Polar-Cartesian.pdb
+D:\MyProjects\RPKS-Polar-Cartesian\RPKS-Polar-Cartesian\obj\Debug\RPKS-Polar-Cartesian.csproj.AssemblyReference.cache
+D:\MyProjects\RPKS-Polar-Cartesian\RPKS-Polar-Cartesian\obj\Debug\RPKS-Polar-Cartesian.csproj.CoreCompileInputs.cache
+D:\MyProjects\RPKS-Polar-Cartesian\RPKS-Polar-Cartesian\obj\Debug\RPKS-Polar-Cartesian.exe
+D:\MyProjects\RPKS-Polar-Cartesian\RPKS-Polar-Cartesian\obj\Debug\RPKS-Polar-Cartesian.pdb
